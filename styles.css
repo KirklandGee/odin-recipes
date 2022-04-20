@@ -1,0 +1,54 @@
+html {
+    box-sizing: border-box;
+}
+
+body {
+    background-color: rgba(252, 248, 237, 0.836);
+    font-family: Helvetica, sans-serif;
+}
+
+h1 {
+    text-align: center;
+    font-size: 50px;
+
+}
+
+h3 {
+    font-size: 30px;
+    text-align: center;
+}
+
+.description {
+    text-align: center;
+}
+
+.pizza-image {
+    width: 600px;
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+ul li {
+    text-align: center;
+    text-decoration: none;
+    list-style-type: none;
+}
+
+.recipe-link {
+    list-style-type: none;
+}
+
+a {
+    color: rgb(65, 101, 131);
+    text-decoration: none;
+}
+
+
+
+.instructions, .ingredients {
+    width: 500px;
+    margin: auto;
+    width: 50%
+}
